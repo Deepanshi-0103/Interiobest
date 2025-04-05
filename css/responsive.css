@@ -1,0 +1,126 @@
+@media(max-width:1199px){
+   .our-story p{
+        font-size: 1.1rem;
+        padding: 0rem;
+
+    }
+    .our-story h4{
+        padding: 0rem;
+    }
+    .counter .col-md-4{
+       justify-content: space-around;
+    }
+
+    .navbar-expand-lg .navbar-nav{
+        align-items:center;
+
+    }
+    .navbar-wrapper .navbar-expand-lg .navbar-nav .nav-link{
+        padding:.3rem;
+        font-size: .9rem;
+    }
+    .navbar-wrapper .navbar-expand-lg .navbar-nav .main-btn{
+        font-size: .9rem;
+    }
+}
+@media(max-width:991px){
+.navbar-wrapper .menu-navbar-nav{
+    text-align: center;
+    padding-bottom: .9rem;
+
+}
+}
+
+@media(max-width:767px){
+    h1{
+        font-size: 1.8rem;
+        line-height: 2.5rem;
+    }
+    h3{
+        font-size: 1.75rem;
+        line-height: 2rem;
+    }
+    h5{
+        font-size: 1.25rem;
+    }
+    p{
+        font-size: .9rem;
+        line-height: 1.5rem;
+    }
+    .our-story p{
+        font-size: .9rem;
+        line-height: 1.5rem;
+    }
+    #about h3{
+        font-size: 2rem;
+    }
+    #Work h3{
+        font-size: 2rem;
+    }
+    #Services h3{
+        font-size: 2rem;
+    }
+    #contact h3{
+        font-size: 2rem;
+    }
+    .tab-content img{
+    height: 30rem;}
+    .service-menu h5{
+        font-size: 1.4rem;
+        margin: 0;
+    }
+    .service-menu p{
+    font-size: .9rem;}
+    .service-menu .service-icon{
+        height: 4.7rem;
+        width:4.7rem;
+        line-height: 5rem;
+    margin-right: 1.2rem;
+    }
+.footer-container h5{
+    font-size: 1.5rem;
+}
+.footer-container p{
+font-size: 1.1rem;
+}
+}
+
+@media(max-width:320px){
+    .navbar-wrapper .nav-link{
+        margin: 0;
+    }
+    .container-fluid .p-5{
+        padding: 0;
+    }
+    #about h3{
+        font-size: 1.8rem;
+    }
+    #Work h3{
+        font-size: 1.8rem;
+    }
+    #Services h3{
+        font-size: 1.8rem;
+    }
+    #contact h3{
+        font-size: 1.8rem;
+    }
+}
+.custom-height {
+    height: 500px; /* Set a custom height for this image */
+    object-fit: cover; /* Ensures the image fills the container without stretching */
+  }
+
+  @media (max-width: 768px) {
+    .content img  {
+      height: 210px;
+      margin: 10px;
+
+     /* Adjust height for smaller screens */
+    }
+  }
+
+  @media (max-width: 576px) {
+    .custom-height {
+      height: 200px; /* Adjust height for extra small screens */
+    }
+}
