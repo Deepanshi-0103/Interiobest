@@ -79,7 +79,7 @@ If you’d like to improve this project, feel free to fork the repo and create a
 Created by **Deepanshi singhal**
 
 * GitHub: [Deepanshi-0103](https://github.com/Deepanshi-0103)
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/deesinghal/
 * Email: [[singhalnhy@gmail.com](mailto:youremail@example.com)]
 
 ---
